@@ -1,4 +1,4 @@
-# Project
+# Implementation and analysis of Veisalgia models
 ## Description
 Veisalgia, also commonly called “Hangover” is a medical condition for the disagreeable physical effects following excessive consumption of alcohol. Headache, drowsiness, fatigue, nausea are only some of the symptoms that could be caused. Given these points, it is useful to study the average response that our body undertakes to counterbalance those physical effects and start a process of elimination of the alcohol.  
 
